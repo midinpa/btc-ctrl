@@ -1,0 +1,22 @@
+{
+  "name": "btc-ctrl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midinpa/btc-ctrl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midinpa/btc-ctrl/issues"
+  },
+  "homepage": "https://github.com/midinpa/btc-ctrl#readme",
+  "dependencies": {
+    "bitcoin": "^3.0.1"
+  }
+}
